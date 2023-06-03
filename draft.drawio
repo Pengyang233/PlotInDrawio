@@ -1,1 +1,283 @@
-<mxfile host="app.diagrams.net" modified="2022-07-30T03:58:04.705Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 Edg/103.0.1264.77" version="20.2.2" etag="2Tg8NLbPomB_vUdhmlbU" type="github"><diagram id="6Ioydp9Mh1S8QwVniWmu">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-06-03T07:11:16.573Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.51" etag="jjV7F7mh8vxQ5KbT87FD" version="21.3.2" type="github">
+  <diagram id="6Ioydp9Mh1S8QwVniWmu" name="第 1 页">
+    <mxGraphModel dx="1108" dy="669" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="N-BLTja63r-pKW2WrBzL-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="N-BLTja63r-pKW2WrBzL-4" target="N-BLTja63r-pKW2WrBzL-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N-BLTja63r-pKW2WrBzL-4" value="过曝、欠曝导致局部区域模糊" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="125" y="202.5" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="N-BLTja63r-pKW2WrBzL-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="N-BLTja63r-pKW2WrBzL-6" target="N-BLTja63r-pKW2WrBzL-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N-BLTja63r-pKW2WrBzL-6" value="&amp;nbsp;3 维静脉向 2 维平面成像时空间信息的损失" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="122.5" y="347" width="125" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="N-BLTja63r-pKW2WrBzL-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="N-BLTja63r-pKW2WrBzL-11" target="N-BLTja63r-pKW2WrBzL-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N-BLTja63r-pKW2WrBzL-11" value="静脉图像中静脉纹路分布稀疏" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="125" y="133.5" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="N-BLTja63r-pKW2WrBzL-31" value="第二章" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="641" y="144" width="63" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="N-BLTja63r-pKW2WrBzL-33" value="第四章" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="641" y="254" width="63" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="N-BLTja63r-pKW2WrBzL-35" value="第五章" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="641" y="337" width="63" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="N-BLTja63r-pKW2WrBzL-36" value="第三章" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="641" y="412.5" width="63" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="N-BLTja63r-pKW2WrBzL-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="N-BLTja63r-pKW2WrBzL-43" target="N-BLTja63r-pKW2WrBzL-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N-BLTja63r-pKW2WrBzL-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="N-BLTja63r-pKW2WrBzL-43" target="N-BLTja63r-pKW2WrBzL-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N-BLTja63r-pKW2WrBzL-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="N-BLTja63r-pKW2WrBzL-43" target="N-BLTja63r-pKW2WrBzL-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N-BLTja63r-pKW2WrBzL-43" value="静脉身份信息歧义性" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.diag_round_rect;dx=11.67;whiteSpace=wrap;horizontal=1;labelPosition=center;align=center;" vertex="1" parent="1">
+          <mxGeometry x="294" y="170.5" width="135" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="N-BLTja63r-pKW2WrBzL-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="N-BLTja63r-pKW2WrBzL-46" target="N-BLTja63r-pKW2WrBzL-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N-BLTja63r-pKW2WrBzL-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="N-BLTja63r-pKW2WrBzL-46" target="N-BLTja63r-pKW2WrBzL-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N-BLTja63r-pKW2WrBzL-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="N-BLTja63r-pKW2WrBzL-46" target="N-BLTja63r-pKW2WrBzL-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N-BLTja63r-pKW2WrBzL-46" value="静脉空间信息歧义性" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.diag_round_rect;dx=11.67;whiteSpace=wrap;horizontal=1;labelPosition=center;align=center;" vertex="1" parent="1">
+          <mxGeometry x="292" y="349.5" width="135" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="N-BLTja63r-pKW2WrBzL-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="N-BLTja63r-pKW2WrBzL-47" target="N-BLTja63r-pKW2WrBzL-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N-BLTja63r-pKW2WrBzL-47" value="背景特征描述子" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;" vertex="1" parent="1">
+          <mxGeometry x="478" y="105" width="129" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="N-BLTja63r-pKW2WrBzL-48" value="背景特征与静脉特征的联合学习" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;spacingLeft=10;spacingRight=10;" vertex="1" parent="1">
+          <mxGeometry x="478" y="168" width="129" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="N-BLTja63r-pKW2WrBzL-49" value="局部显著性区域感知与定位" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;spacingLeft=10;spacingRight=10;" vertex="1" parent="1">
+          <mxGeometry x="478" y="228" width="129" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="N-BLTja63r-pKW2WrBzL-50" value="视角相关性提取与隐式空间信息推断" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;spacingLeft=10;spacingRight=10;" vertex="1" parent="1">
+          <mxGeometry x="478" y="288" width="129" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="N-BLTja63r-pKW2WrBzL-51" value="基于纯静脉区域引导地注意力模型" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;spacingLeft=10;spacingRight=10;" vertex="1" parent="1">
+          <mxGeometry x="478" y="347" width="129" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="N-BLTja63r-pKW2WrBzL-53" value="多视角指静脉数据库的构建与算法验证" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;spacingLeft=10;spacingRight=9;" vertex="1" parent="1">
+          <mxGeometry x="478" y="406" width="129" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="N-BLTja63r-pKW2WrBzL-68" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=6;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="246" y="84" as="sourcePoint" />
+            <mxPoint x="125" y="84" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N-BLTja63r-pKW2WrBzL-71" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=6;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="427" y="84" as="sourcePoint" />
+            <mxPoint x="297" y="84" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N-BLTja63r-pKW2WrBzL-73" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=6;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="607" y="84" as="sourcePoint" />
+            <mxPoint x="477" y="84" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N-BLTja63r-pKW2WrBzL-74" value="现实挑战" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="146" y="44" width="78" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="N-BLTja63r-pKW2WrBzL-75" value="科学问题" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="321" y="44" width="78" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="N-BLTja63r-pKW2WrBzL-76" value="研究内容" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="503.5" y="44" width="78" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="N-BLTja63r-pKW2WrBzL-82" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;size=0.5;strokeWidth=2;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="619" y="105" width="18" height="109" as="geometry" />
+        </mxCell>
+        <mxCell id="N-BLTja63r-pKW2WrBzL-85" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;size=0.5;strokeWidth=2;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="619" y="230" width="18" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="N-BLTja63r-pKW2WrBzL-86" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;size=0.5;strokeWidth=2;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="619" y="314" width="18" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="N-BLTja63r-pKW2WrBzL-87" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;size=0.5;strokeWidth=2;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="619" y="409" width="18" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="N-BLTja63r-pKW2WrBzL-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" source="N-BLTja63r-pKW2WrBzL-89" target="N-BLTja63r-pKW2WrBzL-101" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N-BLTja63r-pKW2WrBzL-89" value="静脉图像质量变化导致局部区域静脉模糊" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="74" y="752.75" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="N-BLTja63r-pKW2WrBzL-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" source="N-BLTja63r-pKW2WrBzL-91" target="N-BLTja63r-pKW2WrBzL-105" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N-BLTja63r-pKW2WrBzL-91" value="三维静脉在单一二维平面下的空间信息损失" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="74" y="868" width="125" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="N-BLTja63r-pKW2WrBzL-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" source="N-BLTja63r-pKW2WrBzL-93" target="N-BLTja63r-pKW2WrBzL-101" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N-BLTja63r-pKW2WrBzL-93" value="某些静脉图像中静脉纹路分布稀疏" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="74" y="683.75" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="N-BLTja63r-pKW2WrBzL-101" value="静脉身份信息歧义性" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.diag_round_rect;dx=11.67;whiteSpace=wrap;horizontal=1;labelPosition=center;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="232" y="720.75" width="135" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="N-BLTja63r-pKW2WrBzL-105" value="静脉空间信息歧义性" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.diag_round_rect;dx=11.67;whiteSpace=wrap;horizontal=1;labelPosition=center;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="232.5" y="870.5" width="135" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="N-BLTja63r-pKW2WrBzL-107" value="背景特征描述子" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="557" y="613" width="129" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="N-BLTja63r-pKW2WrBzL-108" value="背景特征与静脉特征的联合学习算法" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;spacingLeft=10;spacingRight=10;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="557" y="657" width="129" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="N-BLTja63r-pKW2WrBzL-109" value="局部显著性区域感知与定位" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;spacingLeft=10;spacingRight=10;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="557" y="721.75" width="129" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="N-BLTja63r-pKW2WrBzL-110" value="多视角指静脉层次特征提取网络" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;spacingLeft=10;spacingRight=10;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="557" y="767" width="129" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="N-BLTja63r-pKW2WrBzL-111" value="基于纯静脉区域引导的注意力交互" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;spacingLeft=10;spacingRight=10;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="557" y="827.5" width="129" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="N-BLTja63r-pKW2WrBzL-112" value="基于 Transformer 的多视角特征提取网络" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;spacingLeft=10;spacingRight=9;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="557" y="872" width="129" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="N-BLTja63r-pKW2WrBzL-113" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=6;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="197.5" y="588" as="sourcePoint" />
+            <mxPoint x="76.5" y="588" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N-BLTja63r-pKW2WrBzL-114" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=6;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="367.5" y="588" as="sourcePoint" />
+            <mxPoint x="237.5" y="588" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N-BLTja63r-pKW2WrBzL-115" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=6;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="531.5" y="588" as="sourcePoint" />
+            <mxPoint x="401.5" y="588" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N-BLTja63r-pKW2WrBzL-116" value="现实挑战" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="88.5" y="551" width="90" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="N-BLTja63r-pKW2WrBzL-117" value="关键问题" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="255.5" y="551" width="90" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="N-BLTja63r-pKW2WrBzL-118" value="研究内容" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="419" y="551" width="90" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="N-BLTja63r-pKW2WrBzL-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="N-BLTja63r-pKW2WrBzL-127" target="N-BLTja63r-pKW2WrBzL-108">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N-BLTja63r-pKW2WrBzL-127" value="&lt;p style=&quot;line-height: 145%;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;u style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;研究内容 1&lt;/font&gt;&lt;/u&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 145%;&quot;&gt;&amp;nbsp;基于背景先&lt;font style=&quot;font-size: 11px;&quot;&gt;验的指静脉联合特征提&lt;/font&gt;取算法&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="404.5" y="609.5" width="122" height="87.5" as="geometry" />
+        </mxCell>
+        <mxCell id="N-BLTja63r-pKW2WrBzL-162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="N-BLTja63r-pKW2WrBzL-128" target="N-BLTja63r-pKW2WrBzL-156">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N-BLTja63r-pKW2WrBzL-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="N-BLTja63r-pKW2WrBzL-128" target="N-BLTja63r-pKW2WrBzL-157">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N-BLTja63r-pKW2WrBzL-128" value="&lt;p style=&quot;line-height: 145%;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;u style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;研究内容 2&lt;/font&gt;&lt;/u&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 145%;&quot;&gt;&amp;nbsp;多视角指静脉数据库的构建&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="407" y="932" width="122" height="87.5" as="geometry" />
+        </mxCell>
+        <mxCell id="N-BLTja63r-pKW2WrBzL-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="N-BLTja63r-pKW2WrBzL-129" target="N-BLTja63r-pKW2WrBzL-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N-BLTja63r-pKW2WrBzL-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="N-BLTja63r-pKW2WrBzL-129" target="N-BLTja63r-pKW2WrBzL-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N-BLTja63r-pKW2WrBzL-129" value="&lt;p style=&quot;line-height: 145%;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;u style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;研究内容 3&lt;/font&gt;&lt;/u&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 145%;&quot;&gt;&amp;nbsp; 基于局部显著性区域引导的多视角特征提取&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="404.5" y="719" width="122" height="87.5" as="geometry" />
+        </mxCell>
+        <mxCell id="N-BLTja63r-pKW2WrBzL-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="N-BLTja63r-pKW2WrBzL-130" target="N-BLTja63r-pKW2WrBzL-111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N-BLTja63r-pKW2WrBzL-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="N-BLTja63r-pKW2WrBzL-130" target="N-BLTja63r-pKW2WrBzL-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N-BLTja63r-pKW2WrBzL-130" value="&lt;p style=&quot;line-height: 145%;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;u style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;研究内容 4&lt;/font&gt;&lt;/u&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 145%;&quot;&gt;&amp;nbsp; 基于静脉区域引导的多视角静脉特征提取&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="406" y="824.5" width="122" height="87.5" as="geometry" />
+        </mxCell>
+        <mxCell id="N-BLTja63r-pKW2WrBzL-141" value="创新与贡献" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="567.5" y="551" width="108" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="N-BLTja63r-pKW2WrBzL-142" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=6;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="685" y="588" as="sourcePoint" />
+            <mxPoint x="555" y="588" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N-BLTja63r-pKW2WrBzL-143" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.01;entryY=0.429;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="N-BLTja63r-pKW2WrBzL-101" target="N-BLTja63r-pKW2WrBzL-127">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="407" y="824" as="sourcePoint" />
+            <mxPoint x="457" y="774" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N-BLTja63r-pKW2WrBzL-147" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="N-BLTja63r-pKW2WrBzL-101" target="N-BLTja63r-pKW2WrBzL-129">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="377" y="747" as="sourcePoint" />
+            <mxPoint x="432" y="657" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N-BLTja63r-pKW2WrBzL-148" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="N-BLTja63r-pKW2WrBzL-101" target="N-BLTja63r-pKW2WrBzL-130">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="377" y="747" as="sourcePoint" />
+            <mxPoint x="432" y="657" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N-BLTja63r-pKW2WrBzL-149" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="N-BLTja63r-pKW2WrBzL-105" target="N-BLTja63r-pKW2WrBzL-128">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="377" y="773" as="sourcePoint" />
+            <mxPoint x="431" y="773" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N-BLTja63r-pKW2WrBzL-150" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="N-BLTja63r-pKW2WrBzL-105" target="N-BLTja63r-pKW2WrBzL-130">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="364" y="875" as="sourcePoint" />
+            <mxPoint x="344" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N-BLTja63r-pKW2WrBzL-151" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="N-BLTja63r-pKW2WrBzL-105" target="N-BLTja63r-pKW2WrBzL-129">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="367" y="875" as="sourcePoint" />
+            <mxPoint x="432" y="878" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N-BLTja63r-pKW2WrBzL-152" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="N-BLTja63r-pKW2WrBzL-127" target="N-BLTja63r-pKW2WrBzL-107">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="361" y="752" as="sourcePoint" />
+            <mxPoint x="416" y="657" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N-BLTja63r-pKW2WrBzL-156" value="多视角指静脉采集设备的改进" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;spacingLeft=10;spacingRight=9;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="557" y="935" width="129" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="N-BLTja63r-pKW2WrBzL-157" value="多视角指静脉数据库的构建" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;spacingLeft=10;spacingRight=9;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="557" y="980" width="129" height="37" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
